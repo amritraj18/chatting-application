@@ -1,0 +1,28 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amritraj18/chatting-app.git"
+  },
+  "author": "Amrit Rajpal",
+  "license": "ISC",
+  "dependencies": {
+    "@quasar/cli": "^1.0.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "nodemon": "^1.19.1",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.7"
+  }
+}
